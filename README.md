@@ -1,4 +1,3 @@
-# dsba_6010-U92-LLMs
 <div align="center">
 
 # DSBA-6010-U92 Applications of Large Language Models
